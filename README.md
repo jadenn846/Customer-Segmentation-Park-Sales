@@ -36,7 +36,7 @@ Based on these segments, the following data-driven strategies are recommended:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-github-repo-url]
+    git clone https://github.com/jadenn846/Customer-Segmentation-Park-Sales
     cd customer-segmentation-park-sales
     ```
 
